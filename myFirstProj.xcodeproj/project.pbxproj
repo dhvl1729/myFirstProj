@@ -14,6 +14,7 @@
 		7FBC29BD1FD42BD40037ACB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FBC29BB1FD42BD40037ACB9 /* LaunchScreen.storyboard */; };
 		7FBC29C81FD42BD40037ACB9 /* myFirstProjTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBC29C71FD42BD40037ACB9 /* myFirstProjTests.swift */; };
 		7FBC29D31FD42BD40037ACB9 /* myFirstProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBC29D21FD42BD40037ACB9 /* myFirstProjUITests.swift */; };
+		7FBC29E11FD42DD50037ACB9 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBC29E01FD42DD50037ACB9 /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7FBC29CE1FD42BD40037ACB9 /* myFirstProjUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myFirstProjUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FBC29D21FD42BD40037ACB9 /* myFirstProjUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myFirstProjUITests.swift; sourceTree = "<group>"; };
 		7FBC29D41FD42BD40037ACB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FBC29E01FD42DD50037ACB9 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				7FBC29B21FD42BD40037ACB9 /* AppDelegate.swift */,
 				7FBC29B41FD42BD40037ACB9 /* ViewController.swift */,
+				7FBC29E01FD42DD50037ACB9 /* ViewController1.swift */,
 				7FBC29B61FD42BD40037ACB9 /* Main.storyboard */,
 				7FBC29B91FD42BD40037ACB9 /* Assets.xcassets */,
 				7FBC29BB1FD42BD40037ACB9 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FBC29E11FD42DD50037ACB9 /* ViewController1.swift in Sources */,
 				7FBC29B51FD42BD40037ACB9 /* ViewController.swift in Sources */,
 				7FBC29B31FD42BD40037ACB9 /* AppDelegate.swift in Sources */,
 			);
